@@ -1,2 +1,2 @@
-# rc-chuah-repo
+# rc-chuah.repo
 The Termux repository of RC Chuah.
